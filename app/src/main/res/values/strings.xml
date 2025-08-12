@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Manufacturing CRM</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_leads">Leads</string>
+    <string name="nav_documents">Documents</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">Manufacturing CRM Dashboard</string>
+    <string name="total_leads">Total Leads</string>
+    <string name="total_value">Total Value</string>
+    <string name="new_leads">New Leads</string>
+    <string name="quotation_sent">Quotations Sent</string>
+    <string name="won_leads">Won Leads</string>
+    <string name="pending_activities">Pending Activities</string>
+    
+    <!-- Leads -->
+    <string name="search_leads">Search leads...</string>
+    <string name="add_new_lead">Add New Lead</string>
+    <string name="no_leads_found">No leads found\nTap + to add a new lead</string>
+    
+    <!-- Lead Status -->
+    <string name="status_new">New</string>
+    <string name="status_contacted">Contacted</string>
+    <string name="status_quotation_sent">Quotation Sent</string>
+    <string name="status_negotiation">Negotiation</string>
+    <string name="status_won">Won</string>
+    <string name="status_lost">Lost</string>
+    <string name="status_on_hold">On Hold</string>
+    
+    <!-- Lead Priority -->
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+    <string name="priority_urgent">Urgent</string>
+    
+    <!-- Form Labels -->
+    <string name="company_information">Company Information</string>
+    <string name="project_information">Project Information</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="company_name">Company Name</string>
+    <string name="contact_person">Contact Person</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="project_description">Project Description</string>
+    <string name="estimated_value">Estimated Value (₹)</string>
+    <string name="lead_source">Lead Source</string>
+    <string name="notes">Notes</string>
+    <string name="expected_delivery_date">Expected Delivery Date</string>
+    <string name="select_delivery_date">Select Delivery Date</string>
+    <string name="no_date_selected">No date selected</string>
+    
+    <!-- Buttons -->
+    <string name="save_lead">Save Lead</string>
+    <string name="cancel">Cancel</string>
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="view">View</string>
+    <string name="download">Download</string>
+    <string name="share">Share</string>
+    
+    <!-- Messages -->
+    <string name="lead_saved_successfully">Lead saved successfully!</string>
+    <string name="lead_updated_successfully">Lead updated successfully!</string>
+    <string name="lead_deleted_successfully">Lead deleted successfully!</string>
+    <string name="document_uploaded_successfully">Document uploaded successfully!</string>
+    <string name="document_deleted_successfully">Document deleted successfully!</string>
+    <string name="activity_added_successfully">Activity added successfully!</string>
+    <string name="activity_completed_successfully">Activity completed successfully!</string>
+    
+    <!-- Errors -->
+    <string name="error_saving_lead">Failed to save lead</string>
+    <string name="error_loading_leads">Failed to load leads</string>
+    <string name="error_uploading_document">Failed to upload document</string>
+    <string name="error_deleting_document">Failed to delete document</string>
+    <string name="error_adding_activity">Failed to add activity</string>
+    
+    <!-- Validation -->
+    <string name="validation_company_name_required">Company name is required</string>
+    <string name="validation_contact_person_required">Contact person is required</string>
+    <string name="validation_email_required">Email is required</string>
+    <string name="validation_phone_required">Phone number is required</string>
+    <string name="validation_project_description_required">Project description is required</string>
+    <string name="validation_estimated_value_required">Valid estimated value is required</string>
+    
+    <!-- Document Types -->
+    <string name="document_type_quotation">Quotation</string>
+    <string name="document_type_drawing_draft">Drawing Draft</string>
+    <string name="document_type_drawing_revision">Drawing Revision</string>
+    <string name="document_type_final_quotation">Final Quotation</string>
+    <string name="document_type_technical_specification">Technical Specification</string>
+    <string name="document_type_contract">Contract</string>
+    <string name="document_type_other">Other</string>
+    
+    <!-- Activity Types -->
+    <string name="activity_type_call">Call</string>
+    <string name="activity_type_email">Email</string>
+    <string name="activity_type_meeting">Meeting</string>
+    <string name="activity_type_site_visit">Site Visit</string>
+    <string name="activity_type_quotation_sent">Quotation Sent</string>
+    <string name="activity_type_follow_up">Follow Up</string>
+    <string name="activity_type_technical_discussion">Technical Discussion</string>
+    <string name="activity_type_negotiation">Negotiation</string>
+    <string name="activity_type_closure">Closure</string>
+    
+</resources> 
